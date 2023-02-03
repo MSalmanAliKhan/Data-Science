@@ -1,0 +1,4 @@
+Salman,50
+Irfan,25
+Ismail,170
+Khizer,75

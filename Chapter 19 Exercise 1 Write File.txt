@@ -1,0 +1,4 @@
+Salman has a salary of 50
+Irfan has a salary of 25
+Ismail has a salary of 170
+Khizer has a salary of 75
